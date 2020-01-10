@@ -2,12 +2,12 @@ Pdf2Image
 ================================
 copy 项目: https://github.com/stone0090/OfficeTools.Pdf2Image.Word2Image
 
-ExtractImagesFromPDF.itextsharp
-　　没有效果
-ExtractImagesFromPDF.PDFSharp
-　　没有效果
-ExtractTextFromPDF.itextsharp
-　　没有效果
+ExtractImagesFromPDF.itextsharp  
+　　没有效果  
+ExtractImagesFromPDF.PDFSharp  
+　　没有效果  
+ExtractTextFromPDF.itextsharp  
+　　没有效果  
 pdf2image.ABCpdf
 　　不能用，异常：System.DllNotFoundException:“无法加载 DLL“ABCpdfCE6.dll”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。”
 pdf2image.AcrobatZW
